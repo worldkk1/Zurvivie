@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: d9a6c3f3d85816148a44ea67fbb479de
+timeCreated: 1464161997
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BigHole1
+    21300002: SmallHole1
+    21300004: BigHole2
+    21300006: BigHole3
+    21300008: SmallHole2
+    21300010: SmallHole3
+    21300012: SmallHole4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: BigHole1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 124
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 63}
+        - {x: -62, y: 42}
+        - {x: -62, y: -43}
+        - {x: -39, y: -62}
+        - {x: -36, y: -63}
+        - {x: 61, y: -63}
+        - {x: 62, y: -61}
+        - {x: 62, y: 63}
+    - name: SmallHole1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -32, y: 22}
+        - {x: -32, y: -21}
+        - {x: -27, y: -32}
+        - {x: 27, y: -32}
+        - {x: 32, y: -30}
+        - {x: 32, y: 21}
+        - {x: 27, y: 32}
+    - name: BigHole2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 126
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -57}
+        - {x: -43, y: -64}
+        - {x: 58, y: -64}
+        - {x: 63, y: -59}
+        - {x: 63, y: 64}
+        - {x: -51, y: 64}
+        - {x: -63, y: 61}
+    - name: BigHole3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 63}
+        - {x: -63, y: 44}
+        - {x: -63, y: -21}
+        - {x: -48, y: -37}
+        - {x: -45, y: -38}
+        - {x: -46, y: -45}
+        - {x: -37, y: -63}
+        - {x: 55, y: -63}
+        - {x: 63, y: -62}
+        - {x: 63, y: 61}
+        - {x: 62, y: 63}
+    - name: SmallHole2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 32}
+        - {x: -32, y: 20}
+        - {x: -32, y: -22}
+        - {x: -20, y: -32}
+        - {x: 21, y: -32}
+        - {x: 32, y: -23}
+        - {x: 32, y: 18}
+        - {x: 26, y: 32}
+    - name: SmallHole3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 32}
+        - {x: -32, y: 30}
+        - {x: -32, y: -32}
+        - {x: 27, y: -32}
+        - {x: 32, y: -18}
+        - {x: 32, y: 27}
+        - {x: 27, y: 32}
+    - name: SmallHole4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 32}
+        - {x: -31.5, y: 26}
+        - {x: -31.5, y: -27}
+        - {x: -15.5, y: -32}
+        - {x: 21.5, y: -32}
+        - {x: 31.5, y: -24}
+        - {x: 31.5, y: 30}
+        - {x: 20.5, y: 32}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

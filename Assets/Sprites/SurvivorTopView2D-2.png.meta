@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: b530702bc6526e748a1724062ef5ab5e
+timeCreated: 1463982439
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerAnimationIdle
+    21300002: PlayerAnimation1
+    21300004: PlayerAnimation2
+    21300006: PlayerAnimation3
+    21300008: PlayerAnimation4
+    21300010: PlayerAnimation5
+    21300012: PlayerAnimation6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: PlayerAnimationIdle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 126
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 43.64322}
+        - {x: -54.5, y: 33.64322}
+        - {x: -54.5, y: -17.356781}
+        - {x: -40.5, y: -42.35678}
+        - {x: 39.5, y: -42.35678}
+        - {x: 54.5, y: -37.35678}
+        - {x: 54.5, y: 41.64322}
+        - {x: 42.5, y: 43.64322}
+    - name: PlayerAnimation1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 150
+        width: 127
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.06868, y: 43.64322}
+        - {x: -54.06868, y: 40.64322}
+        - {x: -54.06868, y: -23.356781}
+        - {x: -25.06868, y: -42.35678}
+        - {x: 51.93132, y: -42.35678}
+        - {x: 55.93132, y: -30.356781}
+        - {x: 55.93132, y: 38.64322}
+        - {x: 25.93132, y: 43.64322}
+    - name: PlayerAnimation2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 150
+        width: 126
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.07788, y: 45.64322}
+        - {x: -53.92212, y: 45.64322}
+        - {x: -53.92212, y: -40.35678}
+        - {x: -52.92212, y: -44.35678}
+        - {x: 54.07788, y: -44.35678}
+        - {x: 55.07788, y: -42.35678}
+        - {x: 55.07788, y: 29.643219}
+        - {x: 49.07788, y: 39.64322}
+    - name: PlayerAnimation3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 150
+        width: 126
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.560303, y: 43.64322}
+        - {x: -53.560303, y: 42.64322}
+        - {x: -53.560303, y: -23.356781}
+        - {x: -27.560303, y: -42.35678}
+        - {x: 34.439697, y: -42.35678}
+        - {x: 55.439697, y: -31.356781}
+        - {x: 55.439697, y: 39.64322}
+        - {x: 51.439697, y: 43.64322}
+    - name: PlayerAnimation4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 126
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 42.5}
+        - {x: -29.5, y: 42.5}
+        - {x: -54.5, y: 31.5}
+        - {x: -54.5, y: -42.5}
+        - {x: 36.5, y: -42.5}
+        - {x: 44.5, y: -32.5}
+        - {x: 54.5, y: -19.5}
+        - {x: 54.5, y: 34.5}
+    - name: PlayerAnimation5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 126
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.4263, y: 46.35762}
+        - {x: -54.4263, y: 33.35762}
+        - {x: -54.4263, y: -24.64238}
+        - {x: -48.4263, y: -44.64238}
+        - {x: 54.5737, y: -44.64238}
+        - {x: 54.5737, y: 46.35762}
+    - name: PlayerAnimation6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 126
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.92212, y: 42.5}
+        - {x: -53.92212, y: 35.5}
+        - {x: -53.92212, y: -34.5}
+        - {x: -33.92212, y: -42.5}
+        - {x: 42.07788, y: -42.5}
+        - {x: 55.07788, y: -27.5}
+        - {x: 55.07788, y: 40.5}
+        - {x: 49.07788, y: 42.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
